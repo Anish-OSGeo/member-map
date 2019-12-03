@@ -10,7 +10,7 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(mymap);
 
 // I have uploaded the locations.json file to myjson for temporary hosting.
-$.getJSON("https://api.myjson.com/bins/dwq9o", function(json) {
+$.getJSON("https://api.myjson.com/bins/11wxdo", function(json) {
 	// I loop through each of the locations in the returned json.
 	for (i = 0; i < json.length; i++) {
 		// I split the returned coordinate string and retrieve the longitudinal value.

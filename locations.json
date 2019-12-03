@@ -40,10 +40,6 @@
 		"coordinate": "5.665662,51.9875"
 	},
 	{
-		"location": "Suresh Gyan Vihar University",
-		"coordinate": "26.8090, 75.8613"
-	},
-	{
 		"location": "University of Geneva - Institute for Environmental Sciences",
 		"coordinate": "6.1487, 46.2253"
 	},
@@ -74,10 +70,6 @@
 	{
 		"location": "IGN- France",
 		"coordinate": "2.352222, 48.856614"
-	},
-	{
-		"location": "Laboratory for Cartography and GIS, University of Nebraska",
-		"coordinate": "41.2580265, -96.0116352"
 	},
 	{
 		"location": "University of Colorado Denver, Department of Geography and Environmental Sciences",
@@ -396,10 +388,6 @@
 		"coordinate": "21.039473, 52.198849"
 	},
 	{
-		"location": "Lakeland Community College, Geography and Geospatial Technology",
-		"coordinate": "41.6333, -81.3666"
-	},
-	{
 		"location": "GeoDa Center for Geospatial Analysis and Computation, Arizona State University",
 		"coordinate": "-111.940005, 33.425510"
 	},
@@ -418,10 +406,6 @@
 	{
 		"location": "University of Massachusetts Amherst",
 		"coordinate": "-72.524696, 42.393578"
-	},
-	{
-		"location": "A World Bridge",
-		"coordinate": "-156.779008 , 71.289655"
 	},
 	{
 		"location": "Laboratorio Dati Economici Storici Territoriali University of Siena",
