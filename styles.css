@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+h1 {
+	text-decoration: underline;
+	margin-bottom: 0px;
+}
+h4 {
+	color: red;
+	margin-top: 10px;
+}
+p {
+	width: 600px;
+	display: inline-block;
+	line-height: 25px;
+	margin-top: 0px;
+}
+#mapid { 
+	height: 70vh;
+	width: 70vw;
+	margin-left: 15vw;
+}

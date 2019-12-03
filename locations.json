@@ -1,0 +1,522 @@
+[
+	{
+		"location": "Pete Fisher Unit, University of Leicester",
+		"coordinate": "-1.139759, 52.636878"
+	},
+	{
+		"location": "University of Southampton",
+		"coordinate": "-1.396873, 50.936974"
+	},
+	{
+		"location": "OSGeoLabUD, Universidad Distrital Francisco José de Caldas",
+		"coordinate": "-74.06564,4.62799"
+	},
+	{
+		"location": "Geoinformatic Unit,  Universiti Sains Malaysia",
+		"coordinate": "100.484623, 5.263234"
+	},
+	{
+		"location": "Spatial Analysis Research Group Department of Geography, Harokopio University of Athens",
+		"coordinate": "23.70755,37.96124"
+	},
+	{
+		"location": "Department of Photogrammetry and Geoinformatics, Faculty of Civil Engineering, Budapest University of Technology and Economics",
+		"coordinate": "19.054717, 47.481911"
+	},
+	{
+		"location": "University of Wisconsin, Cartography Lab",
+		"coordinate": "-89.4011849,43.075844"
+	},
+	{
+		"location": "Birds Eye View GIS",
+		"coordinate": "-106.60893, 35.068353"
+	},
+	{
+		"location": "Institute of Geography, Pavol Jozef Šafárik University",
+		"coordinate": "21.2460432, 48.7288883"
+	},
+	{
+		"location": "ISRIC - World Soil Information foundation",
+		"coordinate": "5.665662,51.9875"
+	},
+	{
+		"location": "Suresh Gyan Vihar University",
+		"coordinate": "26.8090, 75.8613"
+	},
+	{
+		"location": "University of Geneva - Institute for Environmental Sciences",
+		"coordinate": "6.1487, 46.2253"
+	},
+	{
+		"location": "National College of Public Administration and Governance(NCPAG), University of the Philippines",
+		"coordinate": "121.059875, 14.656005"
+	},
+	{
+		"location": "Geomatics and Virtual Reality Research Group, Siberian State University of Geosystems and Technologies",
+		"coordinate": "82.863503, 54.986816"
+	},
+	{
+		"location": "CEPT University",
+		"coordinate": "72.566004,23.039568"
+	},
+	{
+		"location": "Taras Shevchenko National University of Kyiv (TSNUK) OSGeo Research and Education Lab, Faculty of Geography, Department of Physical Geography and Geoecology",
+		"coordinate": "30.4752782, 50.3825971"
+	},
+	{
+		"location": "North Carolina State University OSGeoREL",
+		"coordinate": "-78.6764, 35.7818"
+	},
+	{
+		"location": "University of Girona",
+		"coordinate": "2.837305, 41.967426"
+	},
+	{
+		"location": "IGN- France",
+		"coordinate": "2.352222, 48.856614"
+	},
+	{
+		"location": "Laboratory for Cartography and GIS, University of Nebraska",
+		"coordinate": "41.2580265, -96.0116352"
+	},
+	{
+		"location": "University of Colorado Denver, Department of Geography and Environmental Sciences",
+		"coordinate": "-105.0019444, 39.0122222"
+	},
+	{
+		"location": "Interfaculty Department of Geoinformatics - Z_GIS, University of Salzburg",
+		"coordinate": "13.039586, 47.823711"
+	},
+	{
+		"location": "National Authority for Remote Sensing & Space Sciences",
+		"coordinate": "30.0500, 31.2333"
+	},
+	{
+		"location": "Spatial-Ecology and GeoComputation at Yale",
+		"coordinate": "-72.920816, 41.320066"
+	},
+	{
+		"location": "Institute of Geodesy and Cartography (IGiK)",
+		"coordinate": "21.013407, 52.178478"
+	},
+	{
+		"location": "Osaka City University(OCU)",
+		"coordinate": "135.507556, 34.593067"
+	},
+	{
+		"location": "University of Molise",
+		"coordinate": "14.493651, 41.630815"
+	},
+	{
+		"location": "Spatial {Query} Lab at Texas A&M University - Corpus Christi",
+		"coordinate": "-97.328799, 27.714506"
+	},
+	{
+		"location": "A World Bridge",
+		"coordinate": "-74.438534, 41.451795"
+	},
+	{
+		"location": "Nodo IDE del Instituto de Geografía",
+		"coordinate": "-34.6036844, -58.3815591"
+	},
+	{
+		"location": "Geodesy and Geomatics Engineering, University of New Brunswick",
+		"coordinate": "-66.641474, 45.950252"
+	},
+	{
+		"location": "Bay College",
+		"coordinate": "-87.163050, 45.773875"
+	},
+	{
+		"location": "Department of Geography",
+		"coordinate": "59.534125,36.306903"
+	},
+	{
+		"location": "Universiti Teknologi Malaysia (UTM)",
+		"coordinate": "101.874222, 2.943748"
+	},
+	{
+		"location": "University of Warwick",
+		"coordinate": "-1.56273, 52.380531"
+	},
+	{
+		"location": "Geospatial Exploration Lab, Department of Geosciences, East Tennessee State University",
+		"coordinate": "-82.3700950, 36.3000590"
+	},
+	{
+		"location": "University of Nottingham, Malaysia campus",
+		"coordinate": "101.721298, 3.172932"
+	},
+	{
+		"location": "Stuttgart University of Applied Sciences",
+		"coordinate": "9.17370, 48.77996"
+	},
+	{
+		"location": "University Alba Regia Technical Faculty Institute of Geoinformatics OSGeo Lab",
+		"coordinate": "18.418833, 47.188778"
+	},
+	{
+		"location": "Open Source Geospatial Laboratory at ETH Zurich",
+		"coordinate": "8.5481, 47.3764"
+	},
+	{
+		"location": "National Technical University of Athens",
+		"coordinate": "23.729310, 37.983716"
+	},
+	{
+		"location": "Center for Agricultural Networking and Information Sharing (CANIS)",
+		"coordinate": "36.816531,-1.279007"
+	},
+	{
+		"location": "ETIS Lab ENSEA UCP CNRS UMR 8051 , University of Cergy Pontoise",
+		"coordinate": "2.085741, 49.043274"
+	},
+	{
+		"location": "Center for Spatial Sciences, University of California, Davis",
+		"coordinate": "-121.766945, 38.548801"
+	},
+	{
+		"location": "University of Nottingham",
+		"coordinate": "-1.250296, 52.831497"
+	},
+	{
+		"location": "FOSS4Geo Academy @ Del Mar College National Open Geospatial Technology Consortium",
+		"coordinate": "-97.407096, 27.764053"
+	},
+	{
+		"location": "Haskell Indian Nations University",
+		"coordinate": "-95.230691, 38.938859"
+	},
+	{
+		"location": "The University of Melbourne",
+		"coordinate": "144.962006, -37.797932"
+	},
+	{
+		"location": "Geographic Information Science and Systems Research Group, Department of Geography and Environmental Studies, Ryerson University",
+		"coordinate": "-79.38097, 43.65910"
+	},
+	{
+		"location": "University of Heidelberg",
+		"coordinate": "8.67024,49.41739"
+	},
+	{
+		"location": "Landscape Architecture, Louisiana State University",
+		"coordinate": "-91.180909, 30.411775"
+	},
+	{
+		"location": "Programa de Gestión de Información y Gestión de Datos -IRPHa Universidad Nacional de San Juan",
+		"coordinate": "-68.57, -31.54"
+	},
+	{
+		"location": "Indikatrix.org",
+		"coordinate": "19.1172618, 47.4691018"
+	},
+	{
+		"location": "Department of Global Studies, Warren Wilson College",
+		"coordinate": "-82.4420794, 35.6115585"
+	},
+	{
+		"location": "Dipartimento di Ingegneria Civile Ambientale e Meccanica, University of Trento",
+		"coordinate": "11.139053, 46.064827"
+	},
+	{
+		"location": "Environmental Science for Social Change (ESSC)",
+		"coordinate": "121.062241, 14.64372"
+	},
+	{
+		"location": "SMART Open Source Geospatial Laboratory, University of Wollongong",
+		"coordinate": "150.87889, -34.40596"
+	},
+	{
+		"location": "Kent State University",
+		"coordinate": "-81.357886,41.153667"
+	},
+	{
+		"location": "Center for Advanced Research on Spatial Information, Hunter College - CUNY",
+		"coordinate": "-73.964831, 40.768703"
+	},
+	{
+		"location": "Hellenic digital earth Centre of Excellence, Aristotle University of Thessaloniki - AUTH",
+		"coordinate": "22.961498, 40.627516"
+	},
+	{
+		"location": "DePaul University, Department of Geography",
+		"coordinate": "-87.6269709,41.8775909"
+	},
+	{
+		"location": "IREA-CNR",
+		"coordinate": "9.23434,45.48046"
+	},
+	{
+		"location": "University of Gloucestershire",
+		"coordinate": "-2.223409, 51.872215"
+	},
+	{
+		"location": "Regional Centre for  Mapping of Resources for Development (RCMRD)",
+		"coordinate": "36.858574, -1.249038"
+	},
+	{
+		"location": "Open Source Geospatial Lab Newcastle University",
+		"coordinate": "-1.611536, 54.980656"
+	},
+	{
+		"location": "The Spatial Lab, Dept of Geography & Environmental Studies Wilfrid Laurier University",
+		"coordinate": "-80.529557, 43.474073"
+	},
+	{
+		"location": "Ben Gurion University of the Negev (BGU)",
+		"coordinate": "34.78346, 30.85332"
+	},
+	{
+		"location": "Kathmandu University",
+		"coordinate": "85.550000, 27.616667"
+	},
+	{
+		"location": "National University of \"Kyiv-Mohyla Academy\", Ecology Faculty",
+		"coordinate": "30.515647, 50.456936"
+	},
+	{
+		"location": "Center for Applied GIScience, University of North Carolina, Charlotte",
+		"coordinate": "-80.730000, 35.306944"
+	},
+	{
+		"location": "GIS and Remote Sensing Unit, Fondazione Edmund Mach",
+		"coordinate": "11.133042,46.187865"
+	},
+	{
+		"location": "University of Moratuwa",
+		"coordinate": "79.9008, 6.7964"
+	},
+	{
+		"location": "LabSIG UNGS",
+		"coordinate": "50.4849078, 3.3370012"
+	},
+	{
+		"location": "Geographic Information Science and Systems Research Group, School of Information Technology and Computing, American University of Nigeria",
+		"coordinate": "12.4996909, 9.1911318"
+	},
+	{
+		"location": "Universidad de la República",
+		"coordinate": "-56.176441, -34.902405"
+	},
+	{
+		"location": "Open Geospatial Laboratory of Northeast Institute of Geography and Agroecology, CAS",
+		"coordinate": "125.400779, 43.99896"
+	},
+	{
+		"location": "Università di Genova - Laboratorio di Geomatica",
+		"coordinate": "8.962795, 44.400133"
+	},
+	{
+		"location": "French Space Agency CNES",
+		"coordinate": "1.481608, 43.561984"
+	},
+	{
+		"location": "The GI Science Group @ the Department of Geomatics Engineering, University of Calgary",
+		"coordinate": "-114.132457, 51.079735"
+	},
+	{
+		"location": "University College London",
+		"coordinate": "-0.133427,51.524773"
+	},
+	{
+		"location": "Dpt of IT, Faculty of Computing, Sri Lanka Institute of Information Technology",
+		"coordinate": "79.973166667, 6.914866667"
+	},
+	{
+		"location": "Politecnico di Milano - Polo Territoriale di Como",
+		"coordinate": "9.095939, 45.803516"
+	},
+	{
+		"location": "Universidad de Las Palmas de Gran Canaria - Escuela de Ingenierías Industriales y Civiles - Grado en Ingenieria Geomática y Topografía",
+		"coordinate": "-15.456207, 28.069303"
+	},
+	{
+		"location": "National Environmental Modeling and Analysis Center (NEMAC), UNC Asheville",
+		"coordinate": "-82.55149, 35.59506"
+	},
+	{
+		"location": "Remote Sensing & GIS, Asian Institute of\nTechnology",
+		"coordinate": "100.612086, 14.079753"
+	},
+	{
+		"location": "University of Kansas",
+		"coordinate": "-95.251311, 38.958578"
+	},
+	{
+		"location": "GIS Lab of Ewha Womans University Dept of Social Studies (Geography), Ewha Womans University",
+		"coordinate": "126.946214, 37.5650726"
+	},
+	{
+		"location": "Geometa Lab at HSR - University of Applied Sciences Rapperswil",
+		"coordinate": "8.81690, 47.22341"
+	},
+	{
+		"location": "Global Studies and Collaboration(GSC), Aoyama Gakuin University",
+		"coordinate": "139.4030, 35.5664"
+	},
+	{
+		"location": "IGAD Climate Prediction and Applications Center",
+		"coordinate": "36.821946,-1.292066"
+	},
+	{
+		"location": "Laboratorio Geoespacial Livre, Federal University of Paraná",
+		"coordinate": "-49.23329, -25.45304"
+	},
+	{
+		"location": "Center for Geographic Analysis, Harvard University",
+		"coordinate": "-71.116913,42.376398"
+	},
+	{
+		"location": "Universidade da Coruña",
+		"coordinate": "-8.411540, 43.362344"
+	},
+	{
+		"location": "Faculty of Geography, University of Bucharest",
+		"coordinate": "26.103889, 44.432500"
+	},
+	{
+		"location": "Geoinformatics Lab, Department of Civil Engineering PEC University of Technology, Chandigarh, India",
+		"coordinate": "76.780893,30.766247"
+	},
+	{
+		"location": "Department of Geodesy and Surveying, Budapest University of Technology and Economics",
+		"coordinate": "19.054403, 47.481916"
+	},
+	{
+		"location": "Maynooth University",
+		"coordinate": "53.385066, -6.601791"
+	},
+	{
+		"location": "University of Belgrade, Faculty of Civil Engineering, Department of geodesy and geoinformatics",
+		"coordinate": "20.476321, 44.805499"
+	},
+	{
+		"location": "UNEP/GRID Warsaw Centre",
+		"coordinate": "21.039473, 52.198849"
+	},
+	{
+		"location": "Lakeland Community College, Geography and Geospatial Technology",
+		"coordinate": "41.6333, -81.3666"
+	},
+	{
+		"location": "GeoDa Center for Geospatial Analysis and Computation, Arizona State University",
+		"coordinate": "-111.940005, 33.425510"
+	},
+	{
+		"location": "University of Zagreb, Faculty of Geodesy",
+		"coordinate": "15.963888, 45.808500"
+	},
+	{
+		"location": "University of Ghana",
+		"coordinate": "-0.191617, 5.650366"
+	},
+	{
+		"location": "Dept. of Geoinformatics, Palacký University Olomouc",
+		"coordinate": "17.26551,49.593812"
+	},
+	{
+		"location": "University of Massachusetts Amherst",
+		"coordinate": "-72.524696, 42.393578"
+	},
+	{
+		"location": "A World Bridge",
+		"coordinate": "-156.779008 , 71.289655"
+	},
+	{
+		"location": "Laboratorio Dati Economici Storici Territoriali University of Siena",
+		"coordinate": "11.332129,43.312688"
+	},
+	{
+		"location": "Geospatial Research and Education Lab(GREL), Institute of Space Technology (IST)",
+		"coordinate": "73.175045, 33.520060"
+	},
+	{
+		"location": "Lab for Spatial Informatics, IIIT Hyderabad",
+		"coordinate": "78.3503, 17.4454"
+	},
+	{
+		"location": "Faculty of Geomatics, Sabaragamuwa University of Sri Lanka",
+		"coordinate": "80.78995, 6.7102"
+	},
+	{
+		"location": "Laboratorio de Software Libre",
+		"coordinate": "-102.5791, 22.7608"
+	},
+	{
+		"location": "GeoBolivia-Vice-presidency of the State",
+		"coordinate": "-68.1547, -16.4949"
+	},
+	{
+		"location": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI)",
+		"coordinate": "8.961098, 46.028362"
+	},
+	{
+		"location": "Czech Technical University in Prague",
+		"coordinate": "14.390363, 50.10183"
+	},
+	{
+		"location": "Department of Geography and Earth Science, Aberystwyth University",
+		"coordinate": "52.416686, -4.066497"
+	},
+	{
+		"location": "Centre for Research and Technology Hellas - Hellenic Institute of Transport",
+		"coordinate": "22.996707, 40.567811"
+	},
+	{
+		"location": "University of South Wales",
+		"coordinate": "-3.179090,51.481581"
+	},
+	{
+		"location": "HEIG-VD GIS-Lab University of Applied Sciences Western Switzerland at Yverdon",
+		"coordinate": "6.65950,46.77938"
+	},
+	{
+		"location": "Universitat Oberta de Catalunya",
+		"coordinate": "2.173403, 41.385064"
+	},
+	{
+		"location": "Fudan University",
+		"coordinate": "121.452, 31.198"
+	},
+	{
+		"location": "Spatiotemporal Data Research and Education Laboratory Southern Illinois University Edwardsville, Computer Science Department",
+		"coordinate": "-90.0009, 38.7917"
+	},
+	{
+		"location": "Department of Geography, Geoinformatics and Meteorology, University of Pretoria",
+		"coordinate": "28.22847, -25.75429"
+	},
+	{
+		"location": "School of Science & Technology GeoForAll Lab of The University of Fiji",
+		"coordinate": "177.4079991,-17.6686835"
+	},
+	{
+		"location": "Portland State University",
+		"coordinate": "-122.676207,45.523452"
+	},
+	{
+		"location": "Federal University of Ceará",
+		"coordinate": "-38.543395,-3.718394"
+	},
+	{
+		"location": "Community Mapping Lab Green Mountain College",
+		"coordinate": "-73.240679, 43.515866"
+	},
+	{
+		"location": "Laboratorio de Geomática de la Universidad Nacional de Colombia, Sede Bogotá",
+		"coordinate": "-74.08731, 4.63600"
+	},
+	{
+		"location": "Centro de Investigación en Recursos Naturales y Sustentabilidad (CIRENYS), Universidad Bernardo O Higgins",
+		"coordinate": "-70.656918, -33.467547"
+	},
+	{
+		"location": "Centre for Spatial Information Science(CSIS), University of Tokyo",
+		"coordinate": "139.938952, 35.902681"
+	},
+	{
+		"location": "Department of Earth Sciences, University of Gothenburg",
+		"coordinate": "57.688529, 11.966565"
+	}
+]
